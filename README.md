@@ -1,4 +1,4 @@
-# vue-function-api-beging
+# vue-function-api-begin
 
 ## Project setup
 ```
